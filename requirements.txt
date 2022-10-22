@@ -1,0 +1,5 @@
+wheel
+notebook
+scipy
+matplotlib
+parsimonious
